@@ -3,3 +3,4 @@
 - Difficulty: Easy (if you are CS student)
 - Dr. Peter Ng is a Huge W professor
 - Service location: Malipo, Wenshan, Yunnan
+- Sem2 + summer sem
